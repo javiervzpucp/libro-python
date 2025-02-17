@@ -1,10 +1,10 @@
 ---
-title: "Capítulo 1: La Historia de Caral y Miraya"
+title: "Capítulo 1: La Historia de Miraya y Lurihuasi"
 ---
 
-# **Capítulo 1: La Historia de Caral y Miraya**
+# **Capítulo 1: La Historia de Miraya y Lurihuasi**
 
-## 📜 Introducción: Caral y los Algoritmos
+## 📜 Algoritmos, LEGOs y Caral
 
 Al pasear por Lima, es habitual encontrarse con lugares en los que parece que el tiempo se detuvo: ruinas corroídas por el sol y por la lluvia tenue y gris que invade los inviernos. Estas aparecen debajo de autopistas, rodeadas de casas, o arrumbadas en algún barrio. La ciudad está infestada de ruinas, de historias interminables y piedras que recuerdan otros tiempos.
 
