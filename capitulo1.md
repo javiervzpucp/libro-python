@@ -26,7 +26,7 @@ A partir de estas preguntas, nace un experimento donde los participantes constru
 La historia comienza con **Miraya y Lurihuasi**, unos niños de Caral, que sin querer, programan con piedras, barro y amor por las construcciones y las pirámides. Tal como los participantes actuales, Miraya y Lurihuasi juegan a armar figuras a partir de elementos simples, y también a **tejer instrucciones de cómo construir figuras**.
 
 📌 **Ilustración de Miraya y Lurihuasi**
-![Niños de Caral](images/ninos_caral.png)
+![Niños de Caral](images/ninos_caral.jpg)
 
 Hace algunos miles de años, en las afueras de Caral, **Miraya, una niña de 10 años**, jugaba todos los días con su hermano menor **Lurihuasi**.
 
