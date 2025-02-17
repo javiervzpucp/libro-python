@@ -57,8 +57,8 @@ Al amanecer, Miraya despertó sintiéndose **una constructora**, lista para enfr
 - **¡No entiendo nada!**, se quejó al ver los nudos desordenados de su hermano.  
 - **Yo ya terminé mi versión de Caral**, respondió él, con cara de triunfo.
 
-📌 **Ilustración de Miraya y su quipu**
-![Quipus](imagenes/quipus_caral2.png)
+📌 **Ilustración de Miraya y Caral**
+![Quipus](imagenes/miaraya_caral.jpg)
 
 Pese a los errores iniciales, ambos lograron descifrar sus quipus y reconstruir Caral de manera diferente. Cada versión era única, pero reflejaba **una estructura común**, igual que los programas de computadora siguen una lógica compartida, aunque el código pueda variar.
 
