@@ -11,7 +11,7 @@ Al pasear por Lima, es habitual encontrarse con lugares en los que parece que el
 A veces, estas construcciones perdidas reaparecen lejos de las grandes ciudades, en medio del sol y el polvo, recordando esplendores antiguos. **Caral**, una ciudadela de algunos miles de años de antigüedad ubicada al norte de Lima, es una de estas imágenes. Este imponente centro ceremonial juega con historias de imaginarios prehispánicos que intentan flotar en el desierto. Estudios arqueológicos afirman que Caral fue uno de los centros ceremoniales más antiguos de todo Sudamérica.
 
 📌 **Imagen de Caral**
-![Caral](imagenes/caral.png)
+![Caral](images/caral.png)
 
 Estas extrañezas que se cruzan en Caral nos impulsan a preguntarnos: **¿en qué medida los paisajes arqueológicos pueden entremezclarse con nociones sobre algoritmos?** Aquí es necesario detenernos un momento. Los algoritmos nos rodean. Sin siquiera darnos cuenta, el algoritmo de Spotify nos hace escuchar a Taylor Swift, mientras descubrimos que necesitamos un nuevo sofá. Una idea maravillosa que surgió desde ideas dispersas entre **Ada Lovelace, Alan Turing y otros grandes pensadores** es que las computadoras son **máquinas capaces de procesar algoritmos**.
 
@@ -26,7 +26,7 @@ A partir de estas preguntas, nace un experimento donde los participantes constru
 La historia comienza con **Miraya y Lurihuasi**, unos niños de Caral, que sin querer, programan con piedras, barro y amor por las construcciones y las pirámides. Tal como los participantes actuales, Miraya y Lurihuasi juegan a armar figuras a partir de elementos simples, y también a **tejer instrucciones de cómo construir figuras**.
 
 📌 **Ilustración de Miraya y Lurihuasi**
-![Niños de Caral](imagenes/ninos_caral.png)
+![Niños de Caral](images/ninos_caral.png)
 
 Hace algunos miles de años, en las afueras de Caral, **Miraya, una niña de 10 años**, jugaba todos los días con su hermano menor **Lurihuasi**.
 
@@ -43,7 +43,7 @@ Movidos por la emoción, Miraya y Lurihuasi tomaron algunas piedras pequeñas y 
 Miraya recordó que los adultos **guardaban instrucciones en quipus**. Así que decidió anudar en su propio quipu una serie de pasos detallados sobre **cómo mover piedras, usar barro y pintar de colores**.
 
 📌 **Ilustración de los Quipus**
-![Quipus](imagenes/quipus_caral.png)
+![Quipus](images/quipus_caral.png)
 
 Esa noche, utilizando la memoria de las innumerables puestas de sol que habían visto, comenzaron su construcción a la luz de antorchas. Tras mucho esfuerzo, cada uno logró una versión diferente de Caral.
 
