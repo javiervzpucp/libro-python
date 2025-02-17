@@ -43,7 +43,7 @@ Movidos por la emoción, Miraya y Lurihuasi tomaron algunas piedras pequeñas y 
 Miraya recordó que los adultos **guardaban instrucciones en quipus**. Así que decidió anudar en su propio quipu una serie de pasos detallados sobre **cómo mover piedras, usar barro y pintar de colores**.
 
 📌 **Ilustración de los Quipus**
-![Quipus](images/quipus_caral.png)
+![Quipus](images/quipus_caral.jpg)
 
 Esa noche, utilizando la memoria de las innumerables puestas de sol que habían visto, comenzaron su construcción a la luz de antorchas. Tras mucho esfuerzo, cada uno logró una versión diferente de Caral.
 
