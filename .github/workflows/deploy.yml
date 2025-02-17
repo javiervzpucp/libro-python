@@ -1,0 +1,27 @@
+name: Deploy Jupyter Book
+
+on:
+  push:
+    branches:
+      - main  # Se ejecutará cada vez que subas cambios a la rama "main"
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Install dependencies
+        run: |
+          pip install -U jupyter-book ghp-import
+
+      - name: Build Jupyter Book
+        run: |
+          jupyter-book build .
+
+      - name: Deploy to GitHub Pages
+        run: |
+          ghp-import -n -p -f _build/html
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

@@ -1,0 +1,9 @@
+format: jb-book
+root: intro
+chapters:
+  - file: capitulo1
+  - file: capitulo2
+  - file: capitulo3
+  - file: capitulo4
+  - file: notebooks
+

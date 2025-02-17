@@ -1,0 +1,14 @@
+title: "Programación en Python con Estrategias de Pensamiento Computacional sin Computador"
+author: "Javier Vera Zúñiga"
+logo: "images/logo.png"
+copyright: "2025, PUCP - Departamento de Humanidades"
+execute:
+  execute_notebooks: "off"
+html:
+  use_repository_button: true
+  use_edit_page_button: true
+  use_issues_button: true
+repository:
+  url: https://github.com/javiervzpucp/libro-python
+  branch: main
+
