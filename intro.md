@@ -1,33 +1,23 @@
-# Máquinas Humanas: Acercamientos al Pensamiento Algorítmico sin Computador
-
-Este libro, **"Máquinas Humanas: Acercamientos al Pensamiento Algorítmico sin Computador"**, explora cómo desarrollar habilidades de **pensamiento computacional** utilizando estrategias sin computadora. A través de ejercicios prácticos, esquemas visuales y experimentos con LEGO, buscamos una introducción accesible a la lógica de la programación para estudiantes de humanidades.
-
-El proyecto es resultado del trabajo de **Javier Vera Zúñiga, XXX**, en el Departamento de Humanidades de la **Pontificia Universidad Católica del Perú (PUCP)**. Se basa en experiencias educativas que combinan metodologías didácticas y exploraciones interactivas para facilitar la comprensión de algoritmos sin necesidad de herramientas digitales avanzadas.
-
-📌 **Imagen del Proyecto:**  
-![Máquinas Humanas](imagenes/maquinas_humanas.png)
-
-## 📌 Contenido del libro
-
-1. **Pensamiento Computacional con Actividades Cotidianas**  
-   Exploraremos cómo atarse los zapatos, cocinar un panqueque y lavarse el cabello nos ayudan a entender la lógica de los algoritmos.
-
-2. **Representación de Algoritmos mediante Esquemas**  
-   Aprenderemos a visualizar procesos mediante diagramas y estructuras lógicas que facilitan la programación.
-
-3. **Desarrollo del Pensamiento Computacional con LEGO**  
-   Aplicaremos conceptos computacionales a la resolución de problemas utilizando bloques LEGO como herramienta de aprendizaje.
-
-4. **Máquinas Humanas: Pensamiento Algorítmico con LEGO**  
-   Analizaremos cómo la construcción colaborativa de figuras con LEGO fomenta el pensamiento algorítmico y su relación con la programación.
-
+---
+title: "Introducción"
 ---
 
-## 📌 Objetivos del Libro
+# **Introducción a Máquinas Humanas: Acercamientos al Pensamiento Algorítmico sin Computador**
 
-✔ **Fomentar el pensamiento computacional** sin necesidad de programar en una computadora.  
-✔ **Explorar estrategias visuales y experimentales** para aprender algoritmos.  
-✔ **Usar actividades prácticas y juegos** para reforzar la lógica de la programación.  
-✔ **Facilitar la enseñanza de programación** en contextos de humanidades.  
+## 📌 ¿De qué trata este libro?
 
-🚀 **¡Aprender a programar comienza con aprender a pensar!**
+Este libro presenta un enfoque innovador para introducir el **pensamiento algorítmico** en disciplinas de humanidades a través de **estrategias experimentales con LEGO y estructuras históricas**. Basado en el proyecto **Máquinas Humanas**, desarrollado en la **PUCP**, busca proporcionar una alternativa didáctica al aprendizaje de la programación sin necesidad de computadoras.
+
+📌 **Objetivos del Libro**
+✔ Explorar la relación entre la **arqueología y los algoritmos**.  
+✔ Utilizar **modelos físicos** (como LEGO) para desarrollar la lógica computacional.  
+✔ Demostrar que el pensamiento algorítmico es **universalmente aplicable**, incluso en disciplinas fuera de STEM.  
+
+## 📚 Estructura del Libro
+
+🔹 **Capítulo 1**: La historia de **Caral y Miraya**, y su relación con el pensamiento computacional.  
+🔹 **Capítulo 2**: Introducción al proyecto **Máquinas Humanas** y el **Experimento LEGO-Caral**.  
+🔹 **Capítulo 3**: Uso de **LEGOs en la enseñanza del pensamiento algorítmico**.  
+🔹 **Capítulo 4**: Reflexiones y aplicaciones futuras.
+
+🚀 **¡Comencemos esta aventura algorítmica sin computador!**
