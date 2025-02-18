@@ -47,14 +47,6 @@ El enfoque de este libro se basa en:
 
 ---
 
-## **Este libro y el Fondo de Apoyo a la Investigación (FAI)**
-
-El Fondo de Apoyo a la Investigación (FAI) ha permitido el desarrollo y documentación de estas estrategias, asegurando que puedan ser replicadas en distintos entornos educativos. El enfoque del proyecto busca innovar en la enseñanza de la programación en Humanidades Digitales, proporcionando herramientas accesibles y metodologías flexibles.
-
-El proyecto **"Máquinas Humanas: Acercamientos al Pensamiento Algorítmico sin Computador"** forma parte de este esfuerzo, explorando nuevas formas de enseñanza donde la programación no es solo una técnica, sino una manera de estructurar el pensamiento.
-
----
-
 ## **¿Cómo usar este libro?**
 
 Este libro está diseñado para estudiantes, docentes e investigadores interesados en la intersección entre tecnología y humanidades. No se requieren conocimientos previos de programación, solo curiosidad y ganas de experimentar.
