@@ -140,9 +140,6 @@ desenredar de esa maravillosa forma de guardar información sus versiones de Car
 de acostarse desarmaron -y destruyeron- Caral, en un acto que Miraya sintió como el inicio
 de una nueva era: Miraya ahora era constructora, y un poco, solo un poco, destructora.
 
-**Ilustración de los hermanos**
-![Miraya](images/quipus_hermanos.jpg)
-
 Al amanecer, Miraya se despertó con la emoción de sentirse constructora. Ahora, podía decirle a sus amigos que cuando sea grande ella construiría pirámides más altas que el sol. Nadie la haría cambiar de opinión. Su hermano, como todos los días, no quería levantarse, aunque un pequeño golpe lo hizo recordar el plan. Ya era hora de desentramar quipus.
 
 - **¡Despierta Lurihuasi!** - Lanzándole una pequeña piedra.
