@@ -131,6 +131,12 @@ orgullosa de su obra maestra.
 **Ilustración de las versiones de Caral**
 ![Miraya](images/caral_hermanos.jpg)
 
+De pronto, escucharon unos ruidos. Era su mamá que los llamaba:
+
+- **Miraya! Lurisuahi! ¿Dónde están?** - Gritaba con tono preocupado.
+- **Acá estamos!** - Respondió Miraya, y su mamá aún un poco dormida volvió a
+acostarse.
+
 ---
 
 
