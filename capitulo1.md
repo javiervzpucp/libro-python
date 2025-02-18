@@ -50,6 +50,10 @@ construcciones, las reglas e instrucciones se mantienen. En un futuro de máquin
 inteligencias artificiales, esas figuras de LEGO serán descubiertas por arqueologías que
 tratarán de leer capas de significado, un tejido de versiones unidas por los algoritmos.
 
+---
+
+## **Miraya y Lurihuasi, los niños constructores de Caral**
+
 La historia comienza con Miraya y Lurihuasi, unos niños de Caral, que sin querer, programan
 con piedras, barro, y amor por las construcciones y las pirámides. Tal como los participantes
 actuales, Miraya y Lurihuasi juegan a armar figuras a partir de elementos simples, y también
@@ -58,63 +62,75 @@ reglas simples, casi insignificantes, que ahora llamamos algoritmos, son algo an
 creación: como decía Borges, que cada escritor crea sus precursores; aquí cada algoritmo
 crea sus precursores, que pueden reflejarse, quizás tenuemente, en Caral.
 
----
-
-## **Miraya y Lurihuasi, los niños constructores de Caral**
-
-La historia comienza con **Miraya y Lurihuasi**, unos niños de Caral, que sin querer, programan con piedras, barro y amor por las construcciones y las pirámides. Tal como los participantes actuales, Miraya y Lurihuasi juegan a armar figuras a partir de elementos simples, y también a **tejer instrucciones de cómo construir figuras**.
-
 **Ilustración de Miraya y Lurihuasi**
 ![Niños de Caral](images/ninos_caral.jpg)
 
-Hace algunos miles de años, en las afueras de Caral, **Miraya, una niña de 10 años**, jugaba todos los días con su hermano menor **Lurihuasi**.
+Hace algunos miles de años, en las afueras de Caral, Miraya, una niña de 10 años, jugaba
+todos los días con su hermano menor Lurihuasi.
 
-A pesar de la muchedumbre, los mercados y la gente de otros lugares lejanos, ellos recorrían cada rincón de Caral. Miraya estaba fascinada con las puestas de sol, en donde las pirámides parecían haber sido hechas por **seres sobrenaturales**. Sin embargo, sabía que estas estructuras eran construidas por los adultos **a partir de una mezcla de piedras, barro y pintura**.
+A pesar de la muchedumbre, los mercados, la gente de otros lugares lejanos, a veces con
+lenguas extrañas, ellos recorrían cada rincón de Caral. Miraya estaba fascinada con las
+puestas de sol, en donde las pirámides parecían haber sido hechas por seres sobrenaturales.
+Ella sabía, sin embargo, que las pirámides eran construidas por los adultos a partir de una
+mezcla de piedras, barro y pintura. 
 
-Un día, mirando el atardecer, Miraya le preguntó a su hermano:
+Un día, mirando el atardecer, Miraya le preguntó a
+Lurihuasi:
 
 - **¿Sabes cómo construir una pirámide?**  
 - **No, pero podríamos intentarlo**, respondió Lurihuasi.  
-- **¡Podríamos!**, exclamó Miraya, mientras imaginaba su futuro.
+- **¡Podríamos!**, Le respondió Miraya, mientras se imaginaba a sí misma en el futuro.
 
-Movidos por la emoción, Miraya y Lurihuasi tomaron algunas piedras pequeñas y un poco de barro y pintura. Pero pronto se enfrentaron a un problema: **¿cómo asegurarse de que su construcción pudiera replicarse con exactitud?** 
+La imaginación de un futuro de felicidad infinita, y también, en parte, las palabras de su
+hermano, la hizo pensar que su admiración por la construcción tenía que transformarse en
+acción. Desde ese momento, supo que tenía que dedicarse a aprender cómo unir las piezas,
+un poco pesadas para su corta edad, pero livianas al lado de su impetuoso entusiasmo. De
+los adultos había escuchado que habían dos maneras de construir. El primero era seguir las
+instrucciones que estaban plasmadas en unos quipus enormes, que los adultos guardaban
+secretamente. El segundo, que era el preferido de Miraya, era partir de la observación de
+alguna pirámide, y después anudar en los quipus -técnica en parte perdida en el tiempo,
+pero que ha sobrevivido al paso de los siglos- instrucciones de cómo mover piedras, usar el
+barro y pintar de colores maravillosos.
 
-Miraya recordó que los adultos **guardaban instrucciones en quipus**. Así que decidió anudar en su propio quipu una serie de pasos detallados sobre **cómo mover piedras, usar barro y pintar de colores**.
-
-**Ilustración de los Quipus**
+**Ilustración de Quipus**
 ![Quipus](images/quipus_caral.jpg)
 
-Esa noche, utilizando la memoria de las innumerables puestas de sol que habían visto, comenzaron su construcción a la luz de antorchas. Tras mucho esfuerzo, cada uno logró una versión diferente de Caral.
+Miraya ideó un plan. Al atardecer, cuando sus padres descansaban después de un largo día
+de trabajo, robaron algunas piedras pequeñas -bueno, las tomaron prestadas-, un poco de
+barro y pintura.
 
-- **¡Mi figura es más bonita que la tuya!**, exclamó Lurihuasi, bailando de felicidad.  
-- **¡La mía se parece a la que construiré cuando sea grande!**, respondió Miraya con orgullo.
+- **¿Qué quieres hacer con eso?** - Balbuceó con voz asustada Lurihuasi, pensando en el
+castigo de sus padres.
+- **No digas nada, será nuestro secreto.**
 
-De repente, escucharon la voz de su madre llamándolos. **Debían desarmar sus figuras para no ser descubiertos**. Pero antes, decidieron crear **quipus con las instrucciones** para poder reconstruirlas al día siguiente.
+En silencio, se repartieron 15 piedras pequeñas cada uno, de diferentes tamaños y formas.
+Miraya miró desafiante a su hermano y le dijo:
 
-Al amanecer, Miraya despertó sintiéndose **una constructora**, lista para enfrentar nuevos retos. Pero al intercambiar su quipu con el de Lurihuasi, se dio cuenta de algo:
+- **Te reto a construir una figura con piedras y barro que sea parecida a la pirámide que
+vemos por donde el sol se esconde.**
 
-- **¡No entiendo nada!**, se quejó al ver los nudos desordenados de su hermano.  
-- **Yo ya terminé mi versión de Caral**, respondió él, con cara de triunfo.
+**Ilustración de hermanos**
+![Miraya](images/miraya_caral.jpg)
 
-**Ilustración de Miraya y Caral**
-![Quipus](images/miraya_caral.jpg)
+Su hermano, con cara de incrédulo, se tomó la cabeza y no sabía cómo empezar.
 
-Pese a los errores iniciales, ambos lograron descifrar sus quipus y reconstruir Caral de manera diferente. Cada versión era única, pero reflejaba **una estructura común**, igual que los programas de computadora siguen una lógica compartida, aunque el código pueda variar.
+- **El sol está a punto de esconderse** - Le dijo.
+- **No hay problema, ya hemos visto la pirámide muchas veces.**
 
-Así, Miraya y Lurihuasi habían creado **los primeros algoritmos constructivos en Caral**, siglos antes de que alguien inventara la programación.
+Y a la luz de unas antorchas, y usando la memoria de las innumerables puestas de sol,
+emprendieron la tarea de armar una figura cada uno. El reto parecía sencillo, pero mover las
+piedras, usar el barro y no quedar sucios -y arriesgar un castigo de sus padres- se volvió casi
+imposible. Al cabo de unos minutos, que parecían eternos, habían dos figuras, que tenían
+algo de Caral, pero que al mismo tiempo capturaban su propia creatividad.
+
+- **Mi figura es más bonita que la tuya!** - Mientras Lurihuasi bailaba de felicidad
+alrededor de su hermana.
+- **La mía se parece a la figura que voy a construir cuando sea grande** - Reflexionó
+orgullosa de su obra maestra.
+
+**Ilustración de las versiones de Caral**
+![Miraya](images/caral_hermanos.jpg)
 
 ---
 
-## **Reflexión Final**
-
-La historia de **Miraya y Lurihuasi** nos muestra que la **creación de estructuras y la escritura de instrucciones** son procesos antiguos, que han acompañado a la humanidad durante milenios. De la misma manera en que los quipus permitían transmitir información en el tiempo, hoy en día los **algoritmos y la programación** nos permiten estructurar ideas y procesos de manera precisa.
-
-**Conclusiones clave:**
-✔ **El pensamiento algorítmico no es exclusivo de la computación.**  
-✔ **Los algoritmos existen en las estructuras arquitectónicas y en la organización de información.**  
-✔ **Los quipus de Caral y los programas de computadoras siguen la misma lógica de instrucciones secuenciales.**
-
-Este capítulo nos prepara para entender cómo podemos aplicar estos conceptos en la actualidad, explorando nuevas formas de enseñanza del pensamiento computacional **sin necesidad de usar una computadora**.
-
-**En el próximo capítulo, exploraremos el experimento LEGO-Caral y cómo podemos utilizar modelos físicos para desarrollar el pensamiento algorítmico en el aula.**
 
