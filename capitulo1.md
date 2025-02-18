@@ -28,9 +28,6 @@ Aparece otra pregunta, más específica y más radical: ¿será posible entremez
 sobre algoritmos y computadoras con historias, ensoñaciones e imaginarios arqueológicos
 en la formación algorítmica de estudiantes de humanidades?
 
-**Imagen de Caral**
-![Caral](images/caral.png)
-
 Esta pregunta, que en una primera mirada parece un poco extraña, encierra un aspecto
 fundamental de la formación en programación: en general, este conocimiento está
 integrado generalmente con cursos de física o matemáticas. Los imaginarios en estas
@@ -143,6 +140,31 @@ desenredar de esa maravillosa forma de guardar información sus versiones de Car
 de acostarse desarmaron -y destruyeron- Caral, en un acto que Miraya sintió como el inicio
 de una nueva era: Miraya ahora era constructora, y un poco, solo un poco, destructora.
 
+**Ilustración de los hermanos**
+![Miraya](images/quipus_hermanos.jpg)
+
+Al amanecer, Miraya se despertó con la emoción de sentirse constructora. Ahora, podía decirle a sus amigos que cuando sea grande ella construiría pirámides más altas que el sol. Nadie la haría cambiar de opinión. Su hermano, como todos los días, no quería levantarse, aunque un pequeño golpe lo hizo recordar el plan. Ya era hora de desentramar quipus.
+
+- **¡Despierta Lurihuasi!** - Lanzándole una pequeña piedra.
+- **Debemos intercambiar los quipus** - Le dijo saltando de su cama, con una idea que sorprendió a Miraya.
+- **¡Acepto el reto!**
+
+Al mirar el quipu que había hecho Lurihuasi pensó frunciendo el ceño “¡No entiendo nada!”, con nudos mal hechos y colores mal puestos; a diferencia del suyo, que seguía las reglas que había aprendido de su mamá, que a su vez lo había heredado de su abuela. A pesar de todo, al pasar el rato, y mucho esfuerzo, empezó a revelarse una imagen de Caral, un poco simplificada, un poco extraña, que tenía un parecido con los dibujos de pirámides que dejaba por todos lados; incluso paredes, que quedaban como vestigios de su propia imaginación.
+
+- **¡Ya entendí tus nudos!** - Le dijo aliviada a Lurihuasi.
+- **Yo ya terminé mi versión de Caral** - Le respondió, con cara de triunfo.
+
+Miraya juntó piezas, usó un poco de barro, probó combinaciones, hasta que luego de un momento sintió un estallido de felicidad: ya era una constructora que leía instrucciones desde un quipu.
+
+- **A pesar de tu desastre, ya tengo mi Caral** - Lo miró desafiante.
+
+Ambos estaban felices. Cada versión era diferente, pero al mismo tiempo se reconocían formas y estructuras, que resonaban en la historia de su pueblo, y su propia familia.
+
+- **¡Eso no se parece a lo que hice ayer!** - Mientras se reía de su hermana y apuntaba a su maqueta.
+- **¡Tú no sabes escribir en quipus!** - Gritó Miraya a su hermano, recordando las veces que se escondía de las lecciones que les daba su mamá.
+Las versiones pequeñas de Caral quedaron en el lugar donde les gustaba mirar el horizonte.
+
+Al atardecer pudieron comparar sus creaciones con la realidad, que comenzó a mezclarse con sus ideas de un futuro de constructores, y el imaginario infinito de piezas que se unen con barro, pero que perduran por los siglos.
 ---
 
 
