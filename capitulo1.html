@@ -1,0 +1,668 @@
+
+<!DOCTYPE html>
+
+
+<html lang="en" data-content_root="./" >
+
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <title>Capítulo 1: La Historia de Miraya y Lurihuasi &#8212; Programación en Python con Estrategias de Pensamiento Computacional sin Computador</title>
+  
+  
+  
+  <script data-cfasync="false">
+    document.documentElement.dataset.mode = localStorage.getItem("mode") || "";
+    document.documentElement.dataset.theme = localStorage.getItem("theme") || "";
+  </script>
+  <!--
+    this give us a css class that will be invisible only if js is disabled
+  -->
+  <noscript>
+    <style>
+      .pst-js-only { display: none !important; }
+
+    </style>
+  </noscript>
+  
+  <!-- Loaded before other Sphinx assets -->
+  <link href="_static/styles/theme.css?digest=8878045cc6db502f8baf" rel="stylesheet" />
+<link href="_static/styles/pydata-sphinx-theme.css?digest=8878045cc6db502f8baf" rel="stylesheet" />
+
+    <link rel="stylesheet" type="text/css" href="_static/pygments.css?v=fa44fd50" />
+    <link rel="stylesheet" type="text/css" href="_static/styles/sphinx-book-theme.css?v=a3416100" />
+    <link rel="stylesheet" type="text/css" href="_static/togglebutton.css?v=13237357" />
+    <link rel="stylesheet" type="text/css" href="_static/copybutton.css?v=76b2166b" />
+    <link rel="stylesheet" type="text/css" href="_static/mystnb.4510f1fc1dee50b3e5859aac5469c37c29e427902b24a333a5f9fcb2f0b3ac41.css" />
+    <link rel="stylesheet" type="text/css" href="_static/sphinx-thebe.css?v=4fa983c6" />
+    <link rel="stylesheet" type="text/css" href="_static/sphinx-design.min.css?v=95c83b7e" />
+  
+  <!-- So that users can add custom icons -->
+  <script src="_static/scripts/fontawesome.js?digest=8878045cc6db502f8baf"></script>
+  <!-- Pre-loaded scripts that we'll load fully later -->
+  <link rel="preload" as="script" href="_static/scripts/bootstrap.js?digest=8878045cc6db502f8baf" />
+<link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=8878045cc6db502f8baf" />
+
+    <script src="_static/documentation_options.js?v=9eb32ce0"></script>
+    <script src="_static/doctools.js?v=9a2dae69"></script>
+    <script src="_static/sphinx_highlight.js?v=dc90522c"></script>
+    <script src="_static/clipboard.min.js?v=a7894cd8"></script>
+    <script src="_static/copybutton.js?v=f281be69"></script>
+    <script src="_static/scripts/sphinx-book-theme.js?v=887ef09a"></script>
+    <script>let toggleHintShow = 'Click to show';</script>
+    <script>let toggleHintHide = 'Click to hide';</script>
+    <script>let toggleOpenOnPrint = 'true';</script>
+    <script src="_static/togglebutton.js?v=4a39c7ea"></script>
+    <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
+    <script src="_static/design-tabs.js?v=f930bc37"></script>
+    <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"; const thebe_selector = ".thebe,.cell"; const thebe_selector_input = "pre"; const thebe_selector_output = ".output, .cell_output"</script>
+    <script async="async" src="_static/sphinx-thebe.js?v=c100c467"></script>
+    <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
+    <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"; const thebe_selector = ".thebe,.cell"; const thebe_selector_input = "pre"; const thebe_selector_output = ".output, .cell_output"</script>
+    <script>DOCUMENTATION_OPTIONS.pagename = 'capitulo1';</script>
+    <link rel="index" title="Index" href="genindex.html" />
+    <link rel="search" title="Search" href="search.html" />
+    <link rel="next" title="Capítulo 2: Máquinas humanas mediante LEGOs" href="capitulo2.html" />
+    <link rel="prev" title="Máquinas Humanas: Acercamientos al Pensamiento Algorítmico sin Computador" href="intro.html" />
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <meta name="docsearch:language" content="en"/>
+  <meta name="docsearch:version" content="" />
+  </head>
+  
+  
+  <body data-bs-spy="scroll" data-bs-target=".bd-toc-nav" data-offset="180" data-bs-root-margin="0px 0px -60%" data-default-mode="">
+
+  
+  
+  <div id="pst-skip-link" class="skip-link d-print-none"><a href="#main-content">Skip to main content</a></div>
+  
+  <div id="pst-scroll-pixel-helper"></div>
+  
+  <button type="button" class="btn rounded-pill" id="pst-back-to-top">
+    <i class="fa-solid fa-arrow-up"></i>Back to top</button>
+
+  
+  <dialog id="pst-search-dialog">
+    
+<form class="bd-search d-flex align-items-center"
+      action="search.html"
+      method="get">
+  <i class="fa-solid fa-magnifying-glass"></i>
+  <input type="search"
+         class="form-control"
+         name="q"
+         placeholder="Search this book..."
+         aria-label="Search this book..."
+         autocomplete="off"
+         autocorrect="off"
+         autocapitalize="off"
+         spellcheck="false"/>
+  <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
+</form>
+  </dialog>
+
+  <div class="pst-async-banner-revealer d-none">
+  <aside id="bd-header-version-warning" class="d-none d-print-none" aria-label="Version warning"></aside>
+</div>
+
+  
+    <header class="bd-header navbar navbar-expand-lg bd-navbar d-print-none">
+    </header>
+  
+
+  <div class="bd-container">
+    <div class="bd-container__inner bd-page-width">
+      
+      
+      
+      <dialog id="pst-primary-sidebar-modal"></dialog>
+      <div id="pst-primary-sidebar" class="bd-sidebar-primary bd-sidebar">
+        
+
+  
+  <div class="sidebar-header-items sidebar-primary__section">
+    
+    
+    
+    
+  </div>
+  
+    <div class="sidebar-primary-items__start sidebar-primary__section">
+        <div class="sidebar-primary-item">
+
+  
+    
+  
+
+<a class="navbar-brand logo" href="intro.html">
+  
+  
+  
+  
+  
+    
+    
+      
+    
+    
+    <img src="_static/logo.png" class="logo__image only-light" alt="Programación en Python con Estrategias de Pensamiento Computacional sin Computador - Home"/>
+    <img src="_static/logo.png" class="logo__image only-dark pst-js-only" alt="Programación en Python con Estrategias de Pensamiento Computacional sin Computador - Home"/>
+  
+  
+</a></div>
+        <div class="sidebar-primary-item">
+
+<button class="btn search-button-field search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+ <i class="fa-solid fa-magnifying-glass"></i>
+ <span class="search-button__default-text">Search</span>
+ <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+</button></div>
+        <div class="sidebar-primary-item"><nav class="bd-links bd-docs-nav" aria-label="Main">
+    <div class="bd-toc-item navbar-nav active">
+        
+        <ul class="nav bd-sidenav bd-sidenav__home-link">
+            <li class="toctree-l1">
+                <a class="reference internal" href="intro.html">
+                    Máquinas Humanas: Acercamientos al Pensamiento Algorítmico sin Computador
+                </a>
+            </li>
+        </ul>
+        <ul class="current nav bd-sidenav">
+<li class="toctree-l1 current active"><a class="current reference internal" href="#"><strong>Capítulo 1: La Historia de Miraya y Lurihuasi</strong></a></li>
+<li class="toctree-l1"><a class="reference internal" href="capitulo2.html"><strong>Capítulo 2: Máquinas humanas mediante LEGOs</strong></a></li>
+<li class="toctree-l1"><a class="reference internal" href="notebooks.html">Content with notebooks</a></li>
+</ul>
+
+    </div>
+</nav></div>
+    </div>
+  
+  
+  <div class="sidebar-primary-items__end sidebar-primary__section">
+      <div class="sidebar-primary-item">
+<div id="ethical-ad-placement"
+      class="flat"
+      data-ea-publisher="readthedocs"
+      data-ea-type="readthedocs-sidebar"
+      data-ea-manual="true">
+</div></div>
+  </div>
+
+
+      </div>
+      
+      <main id="main-content" class="bd-main" role="main">
+        
+        
+
+<div class="sbt-scroll-pixel-helper"></div>
+
+          <div class="bd-content">
+            <div class="bd-article-container">
+              
+              <div class="bd-header-article d-print-none">
+<div class="header-article-items header-article__inner">
+  
+    <div class="header-article-items__start">
+      
+        <div class="header-article-item"><button class="sidebar-toggle primary-toggle btn btn-sm" title="Toggle primary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+  <span class="fa-solid fa-bars"></span>
+</button></div>
+      
+    </div>
+  
+  
+    <div class="header-article-items__end">
+      
+        <div class="header-article-item">
+
+<div class="article-header-buttons">
+
+
+
+
+
+<div class="dropdown dropdown-source-buttons">
+  <button class="btn dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Source repositories">
+    <i class="fab fa-github"></i>
+  </button>
+  <ul class="dropdown-menu">
+      
+      
+      
+      <li><a href="https://github.com/javiervzpucp/libro-python" target="_blank"
+   class="btn btn-sm btn-source-repository-button dropdown-item"
+   title="Source repository"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fab fa-github"></i>
+  </span>
+<span class="btn__text-container">Repository</span>
+</a>
+</li>
+      
+      
+      
+      
+      <li><a href="https://github.com/javiervzpucp/libro-python/edit/main/capitulo1.md" target="_blank"
+   class="btn btn-sm btn-source-edit-button dropdown-item"
+   title="Suggest edit"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-pencil-alt"></i>
+  </span>
+<span class="btn__text-container">Suggest edit</span>
+</a>
+</li>
+      
+      
+      
+      
+      <li><a href="https://github.com/javiervzpucp/libro-python/issues/new?title=Issue%20on%20page%20%2Fcapitulo1.html&body=Your%20issue%20content%20here." target="_blank"
+   class="btn btn-sm btn-source-issues-button dropdown-item"
+   title="Open an issue"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-lightbulb"></i>
+  </span>
+<span class="btn__text-container">Open issue</span>
+</a>
+</li>
+      
+  </ul>
+</div>
+
+
+
+
+
+
+<div class="dropdown dropdown-download-buttons">
+  <button class="btn dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Download this page">
+    <i class="fas fa-download"></i>
+  </button>
+  <ul class="dropdown-menu">
+      
+      
+      
+      <li><a href="_sources/capitulo1.md" target="_blank"
+   class="btn btn-sm btn-download-source-button dropdown-item"
+   title="Download source file"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-file"></i>
+  </span>
+<span class="btn__text-container">.md</span>
+</a>
+</li>
+      
+      
+      
+      
+      <li>
+<button onclick="window.print()"
+  class="btn btn-sm btn-download-pdf-button dropdown-item"
+  title="Print to PDF"
+  data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-file-pdf"></i>
+  </span>
+<span class="btn__text-container">.pdf</span>
+</button>
+</li>
+      
+  </ul>
+</div>
+
+
+
+
+<button onclick="toggleFullScreen()"
+  class="btn btn-sm btn-fullscreen-button"
+  title="Fullscreen mode"
+  data-bs-placement="bottom" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-expand"></i>
+  </span>
+
+</button>
+
+
+
+<button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button pst-js-only" aria-label="Color mode" data-bs-title="Color mode"  data-bs-placement="bottom" data-bs-toggle="tooltip">
+  <i class="theme-switch fa-solid fa-sun                fa-lg" data-mode="light" title="Light"></i>
+  <i class="theme-switch fa-solid fa-moon               fa-lg" data-mode="dark"  title="Dark"></i>
+  <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"  title="System Settings"></i>
+</button>
+
+
+<button class="btn btn-sm pst-navbar-icon search-button search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass fa-lg"></i>
+</button>
+<button class="sidebar-toggle secondary-toggle btn btn-sm" title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <span class="fa-solid fa-list"></span>
+</button>
+</div></div>
+      
+    </div>
+  
+</div>
+</div>
+              
+              
+
+<div id="jb-print-docs-body" class="onlyprint">
+    <h1>Capítulo 1: La Historia de Miraya y Lurihuasi</h1>
+    <!-- Table of contents -->
+    <div id="print-main-content">
+        <div id="jb-print-toc">
+            
+            <div>
+                <h2> Contents </h2>
+            </div>
+            <nav aria-label="Page">
+                <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#algoritmos-legos-y-caral"><strong>Algoritmos, LEGOs y Caral</strong></a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#miraya-y-lurihuasi-los-ninos-constructores-de-caral"><strong>Miraya y Lurihuasi, los niños constructores de Caral</strong></a></li>
+</ul>
+            </nav>
+        </div>
+    </div>
+</div>
+
+              
+                
+<div id="searchbox"></div>
+                <article class="bd-article">
+                  
+  <section class="tex2jax_ignore mathjax_ignore" id="capitulo-1-la-historia-de-miraya-y-lurihuasi">
+<h1><strong>Capítulo 1: La Historia de Miraya y Lurihuasi</strong><a class="headerlink" href="#capitulo-1-la-historia-de-miraya-y-lurihuasi" title="Link to this heading">#</a></h1>
+<section id="algoritmos-legos-y-caral">
+<h2><strong>Algoritmos, LEGOs y Caral</strong><a class="headerlink" href="#algoritmos-legos-y-caral" title="Link to this heading">#</a></h2>
+<p>Al pasear por Lima, es habitual encontrarse con lugares en los que parece que el tiempo se
+detuvo: ruinas corroídas por el sol y por la lluvia tenue y gris que invade los inviernos. Estas
+aparecen debajo de autopistas, rodeadas de casas, o arrumbadas en algún barrio. La ciudad
+está infestada de ruinas, de historias interminables, y piedras que recuerdan otros tiempos.
+A veces, estas construcciones perdidas reaparecen lejos de las grandes ciudades, en medio
+del sol y el polvo, recordando esplendores antiguos. Caral, una ciudadela de algunos miles
+de años de antigüedad ubicada al norte de Lima, es una de estas imágenes. Este imponente
+centro ceremonial juega con historias de imaginarios prehispánicos que intentan flotar en el
+desierto. Estudios arqueológicos afirman que Caral fue uno de los centros ceremoniales más
+antiguos de todo Sudamérica.</p>
+<p>Estas extrañezas que se cruzan en Caral -al menos para un extranjero- nos impulsa a
+preguntarnos: ¿en qué medida los paisajes arqueológicos pueden entremezclarse con
+nociones sobre algoritmos? Aquí es necesario que nos detengamos un momento. Los
+algoritmos nos rodean. Sin siquiera darnos cuenta, el algoritmo de Spotify nos hace escuchar
+a Taylor Swift, mientras descubrimos que necesitamos un nuevo sofá. Una idea maravillosa
+que surgió desde ideas dispersas entre Ada Lovelace, Alan Turing y un sinfín de famosos, es
+que las computadoras son ni más ni menos que máquinas capaces de procesar algoritmos.
+Aparece otra pregunta, más específica y más radical: ¿será posible entremezclar las ideas
+sobre algoritmos y computadoras con historias, ensoñaciones e imaginarios arqueológicos
+en la formación algorítmica de estudiantes de humanidades?</p>
+<p>Esta pregunta, que en una primera mirada parece un poco extraña, encierra un aspecto
+fundamental de la formación en programación: en general, este conocimiento está
+integrado generalmente con cursos de física o matemáticas. Los imaginarios en estas
+perspectivas que vienen de la ingeniería o las ciencias exactas aparecen en fascinaciones por
+robots, máquinas que aprenden un lenguaje o que pueden crear imágenes de un gato. ¿Qué
+ocurre si las fascinaciones rebasan la tecnología, y abarcan, por ejemplo, preguntas
+literarias, reflexiones filosóficas, cuestiones sobre palabras o incluso sobre arqueología?
+¿Cómo se reconstruyen los imaginarios de jóvenes que comienzan en las humanidades, que
+en principio no se interesan por robots (aunque sería interesante que ocurriera)? ¿Será
+posible crear historias algorítmicas o experimentos algorítmicos basados en historias?</p>
+<p>A partir de ideas y ensoñaciones arqueológicas, los participantes de esta historia construyen
+con piezas de LEGO una maqueta de Caral, que busca resonar en sus ideas preconcebidas y
+sus propios recuerdos. Cada pieza de LEGO es una piedra de otro tiempo: sin hacer
+distinciones entre tecnologías antiguas o modernas, las materialidades cambian, pero las
+construcciones, las reglas e instrucciones se mantienen. En un futuro de máquinas e
+inteligencias artificiales, esas figuras de LEGO serán descubiertas por arqueologías que
+tratarán de leer capas de significado, un tejido de versiones unidas por los algoritmos.</p>
+</section>
+<hr class="docutils" />
+<section id="miraya-y-lurihuasi-los-ninos-constructores-de-caral">
+<h2><strong>Miraya y Lurihuasi, los niños constructores de Caral</strong><a class="headerlink" href="#miraya-y-lurihuasi-los-ninos-constructores-de-caral" title="Link to this heading">#</a></h2>
+<p>La historia comienza con Miraya y Lurihuasi, unos niños de Caral, que sin querer, programan
+con piedras, barro, y amor por las construcciones y las pirámides. Tal como los participantes
+actuales, Miraya y Lurihuasi juegan a armar figuras a partir de elementos simples, y también
+a tejer instrucciones de cómo construir figuras. Parece que las instrucciones formadas de
+reglas simples, casi insignificantes, que ahora llamamos algoritmos, son algo anterior a su
+creación: como decía Borges, que cada escritor crea sus precursores; aquí cada algoritmo
+crea sus precursores, que pueden reflejarse, quizás tenuemente, en Caral.</p>
+<p><strong>Ilustración de Miraya y Lurihuasi</strong>
+<img alt="Niños de Caral" src="_images/ninos_caral.jpg" /></p>
+<p>Hace algunos miles de años, en las afueras de Caral, Miraya, una niña de 10 años, jugaba
+todos los días con su hermano menor Lurihuasi.</p>
+<p>A pesar de la muchedumbre, los mercados, la gente de otros lugares lejanos, a veces con
+lenguas extrañas, ellos recorrían cada rincón de Caral. Miraya estaba fascinada con las
+puestas de sol, en donde las pirámides parecían haber sido hechas por seres sobrenaturales.
+Ella sabía, sin embargo, que las pirámides eran construidas por los adultos a partir de una
+mezcla de piedras, barro y pintura.</p>
+<p>Un día, mirando el atardecer, Miraya le preguntó a
+Lurihuasi:</p>
+<ul class="simple">
+<li><p><strong>¿Sabes cómo construir una pirámide?</strong></p></li>
+<li><p><strong>No, pero podríamos intentarlo</strong>, respondió Lurihuasi.</p></li>
+<li><p><strong>¡Podríamos!</strong>, Le respondió Miraya, mientras se imaginaba a sí misma en el futuro.</p></li>
+</ul>
+<p>La imaginación de un futuro de felicidad infinita, y también, en parte, las palabras de su
+hermano, la hizo pensar que su admiración por la construcción tenía que transformarse en
+acción. Desde ese momento, supo que tenía que dedicarse a aprender cómo unir las piezas,
+un poco pesadas para su corta edad, pero livianas al lado de su impetuoso entusiasmo. De
+los adultos había escuchado que habían dos maneras de construir. El primero era seguir las
+instrucciones que estaban plasmadas en unos quipus enormes, que los adultos guardaban
+secretamente. El segundo, que era el preferido de Miraya, era partir de la observación de
+alguna pirámide, y después anudar en los quipus -técnica en parte perdida en el tiempo,
+pero que ha sobrevivido al paso de los siglos- instrucciones de cómo mover piedras, usar el
+barro y pintar de colores maravillosos.</p>
+<p><strong>Ilustración de Quipus</strong>
+<img alt="Quipus" src="_images/quipus_caral.jpg" /></p>
+<p>Miraya ideó un plan. Al atardecer, cuando sus padres descansaban después de un largo día
+de trabajo, robaron algunas piedras pequeñas -bueno, las tomaron prestadas-, un poco de
+barro y pintura.</p>
+<ul class="simple">
+<li><p><strong>¿Qué quieres hacer con eso?</strong> - Balbuceó con voz asustada Lurihuasi, pensando en el
+castigo de sus padres.</p></li>
+<li><p><strong>No digas nada, será nuestro secreto.</strong></p></li>
+</ul>
+<p>En silencio, se repartieron 15 piedras pequeñas cada uno, de diferentes tamaños y formas.
+Miraya miró desafiante a su hermano y le dijo:</p>
+<ul class="simple">
+<li><p><strong>Te reto a construir una figura con piedras y barro que sea parecida a la pirámide que
+vemos por donde el sol se esconde.</strong></p></li>
+</ul>
+<p><strong>Ilustración de hermanos</strong>
+<img alt="Miraya" src="_images/miraya_caral.jpg" /></p>
+<p>Su hermano, con cara de incrédulo, se tomó la cabeza y no sabía cómo empezar.</p>
+<ul class="simple">
+<li><p><strong>El sol está a punto de esconderse</strong> - Le dijo.</p></li>
+<li><p><strong>No hay problema, ya hemos visto la pirámide muchas veces.</strong></p></li>
+</ul>
+<p>Y a la luz de unas antorchas, y usando la memoria de las innumerables puestas de sol,
+emprendieron la tarea de armar una figura cada uno. El reto parecía sencillo, pero mover las
+piedras, usar el barro y no quedar sucios -y arriesgar un castigo de sus padres- se volvió casi
+imposible. Al cabo de unos minutos, que parecían eternos, habían dos figuras, que tenían
+algo de Caral, pero que al mismo tiempo capturaban su propia creatividad.</p>
+<ul class="simple">
+<li><p><strong>Mi figura es más bonita que la tuya!</strong> - Mientras Lurihuasi bailaba de felicidad
+alrededor de su hermana.</p></li>
+<li><p><strong>La mía se parece a la figura que voy a construir cuando sea grande</strong> - Reflexionó
+orgullosa de su obra maestra.</p></li>
+</ul>
+<p><strong>Ilustración de las versiones de Caral</strong>
+<img alt="Miraya" src="_images/caral_hermanos.jpg" /></p>
+<p>De pronto, escucharon unos ruidos. Era su mamá que los llamaba:</p>
+<ul class="simple">
+<li><p><strong>Miraya! Lurisuahi! ¿Dónde están?</strong> - Gritaba con tono preocupado.</p></li>
+<li><p><strong>Acá estamos!</strong> - Respondió Miraya, y su mamá aún un poco dormida volvió a
+acostarse.</p></li>
+</ul>
+<p>Para evitar un castigo, se propusieron hacer quipus con las instrucciones de cómo
+reconstruir las figuras. Así, al día siguiente seguiría el juego, pero ahora tendrían que
+desenredar de esa maravillosa forma de guardar información sus versiones de Caral. Antes
+de acostarse desarmaron -y destruyeron- Caral, en un acto que Miraya sintió como el inicio
+de una nueva era: Miraya ahora era constructora, y un poco, solo un poco, destructora.</p>
+<p>Al amanecer, Miraya se despertó con la emoción de sentirse constructora. Ahora, podía decirle a sus amigos que cuando sea grande ella construiría pirámides más altas que el sol. Nadie la haría cambiar de opinión. Su hermano, como todos los días, no quería levantarse, aunque un pequeño golpe lo hizo recordar el plan. Ya era hora de desentramar quipus.</p>
+<ul class="simple">
+<li><p><strong>¡Despierta Lurihuasi!</strong> - Lanzándole una pequeña piedra.</p></li>
+<li><p><strong>Debemos intercambiar los quipus</strong> - Le dijo saltando de su cama, con una idea que sorprendió a Miraya.</p></li>
+<li><p><strong>¡Acepto el reto!</strong></p></li>
+</ul>
+<p>Al mirar el quipu que había hecho Lurihuasi pensó frunciendo el ceño “¡No entiendo nada!”, con nudos mal hechos y colores mal puestos; a diferencia del suyo, que seguía las reglas que había aprendido de su mamá, que a su vez lo había heredado de su abuela. A pesar de todo, al pasar el rato, y mucho esfuerzo, empezó a revelarse una imagen de Caral, un poco simplificada, un poco extraña, que tenía un parecido con los dibujos de pirámides que dejaba por todos lados; incluso paredes, que quedaban como vestigios de su propia imaginación.</p>
+<ul class="simple">
+<li><p><strong>¡Ya entendí tus nudos!</strong> - Le dijo aliviada a Lurihuasi.</p></li>
+<li><p><strong>Yo ya terminé mi versión de Caral</strong> - Le respondió, con cara de triunfo.</p></li>
+</ul>
+<p>Miraya juntó piezas, usó un poco de barro, probó combinaciones, hasta que luego de un momento sintió un estallido de felicidad: ya era una constructora que leía instrucciones desde un quipu.</p>
+<ul class="simple">
+<li><p><strong>A pesar de tu desastre, ya tengo mi Caral</strong> - Lo miró desafiante.</p></li>
+</ul>
+<p>Ambos estaban felices. Cada versión era diferente, pero al mismo tiempo se reconocían formas y estructuras, que resonaban en la historia de su pueblo, y su propia familia.</p>
+<ul class="simple">
+<li><p><strong>¡Eso no se parece a lo que hice ayer!</strong> - Mientras se reía de su hermana y apuntaba a su maqueta.</p></li>
+<li><p><strong>¡Tú no sabes escribir en quipus!</strong> - Gritó Miraya a su hermano, recordando las veces que se escondía de las lecciones que les daba su mamá.</p></li>
+</ul>
+<p>Las versiones pequeñas de Caral quedaron en el lugar donde les gustaba mirar el horizonte.</p>
+<p>Al atardecer pudieron comparar sus creaciones con la realidad, que comenzó a mezclarse con sus ideas de un futuro de constructores, y el imaginario infinito de piezas que se unen con barro, pero que perduran por los siglos.</p>
+</section>
+</section>
+
+    <script type="text/x-thebe-config">
+    {
+        requestKernel: true,
+        binderOptions: {
+            repo: "binder-examples/jupyter-stacks-datascience",
+            ref: "master",
+        },
+        codeMirrorConfig: {
+            theme: "abcdef",
+            mode: "python"
+        },
+        kernelOptions: {
+            name: "python3",
+            path: "./."
+        },
+        predefinedOutput: true
+    }
+    </script>
+    <script>kernelName = 'python3'</script>
+
+                </article>
+              
+
+              
+              
+              
+              
+                <footer class="prev-next-footer d-print-none">
+                  
+<div class="prev-next-area">
+    <a class="left-prev"
+       href="intro.html"
+       title="previous page">
+      <i class="fa-solid fa-angle-left"></i>
+      <div class="prev-next-info">
+        <p class="prev-next-subtitle">previous</p>
+        <p class="prev-next-title"><strong>Máquinas Humanas: Acercamientos al Pensamiento Algorítmico sin Computador</strong></p>
+      </div>
+    </a>
+    <a class="right-next"
+       href="capitulo2.html"
+       title="next page">
+      <div class="prev-next-info">
+        <p class="prev-next-subtitle">next</p>
+        <p class="prev-next-title"><strong>Capítulo 2: Máquinas humanas mediante LEGOs</strong></p>
+      </div>
+      <i class="fa-solid fa-angle-right"></i>
+    </a>
+</div>
+                </footer>
+              
+            </div>
+            
+            
+              
+                <dialog id="pst-secondary-sidebar-modal"></dialog>
+                <div id="pst-secondary-sidebar" class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+
+
+  <div class="sidebar-secondary-item">
+  <div class="page-toc tocsection onthispage">
+    <i class="fa-solid fa-list"></i> Contents
+  </div>
+  <nav class="bd-toc-nav page-toc">
+    <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#algoritmos-legos-y-caral"><strong>Algoritmos, LEGOs y Caral</strong></a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#miraya-y-lurihuasi-los-ninos-constructores-de-caral"><strong>Miraya y Lurihuasi, los niños constructores de Caral</strong></a></li>
+</ul>
+  </nav></div>
+
+</div></div>
+              
+            
+          </div>
+          <footer class="bd-footer-content">
+            
+<div class="bd-footer-content__inner container">
+  
+  <div class="footer-item">
+    
+<p class="component-author">
+By Javier Vera Zúñiga
+</p>
+
+  </div>
+  
+  <div class="footer-item">
+    
+
+  <p class="copyright">
+    
+      © Copyright 2025, PUCP - Departamento de Humanidades.
+      <br/>
+    
+  </p>
+
+  </div>
+  
+  <div class="footer-item">
+    
+  </div>
+  
+  <div class="footer-item">
+    
+  </div>
+  
+</div>
+          </footer>
+        
+
+      </main>
+    </div>
+  </div>
+  
+  <!-- Scripts loaded after <body> so the DOM is not blocked -->
+  <script defer src="_static/scripts/bootstrap.js?digest=8878045cc6db502f8baf"></script>
+<script defer src="_static/scripts/pydata-sphinx-theme.js?digest=8878045cc6db502f8baf"></script>
+
+  <footer class="bd-footer">
+  </footer>
+  </body>
+</html>
