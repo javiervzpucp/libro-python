@@ -137,6 +137,12 @@ De pronto, escucharon unos ruidos. Era su mamá que los llamaba:
 - **Acá estamos!** - Respondió Miraya, y su mamá aún un poco dormida volvió a
 acostarse.
 
+Para evitar un castigo, se propusieron hacer quipus con las instrucciones de cómo
+reconstruir las figuras. Así, al día siguiente seguiría el juego, pero ahora tendrían que
+desenredar de esa maravillosa forma de guardar información sus versiones de Caral. Antes
+de acostarse desarmaron -y destruyeron- Caral, en un acto que Miraya sintió como el inicio
+de una nueva era: Miraya ahora era constructora, y un poco, solo un poco, destructora.
+
 ---
 
 
