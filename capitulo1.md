@@ -17,9 +17,6 @@ centro ceremonial juega con historias de imaginarios prehispánicos que intentan
 desierto. Estudios arqueológicos afirman que Caral fue uno de los centros ceremoniales más
 antiguos de todo Sudamérica.
 
-**Imagen de Caral**
-![Caral](images/caral.png)
-
 Estas extrañezas que se cruzan en Caral -al menos para un extranjero- nos impulsa a
 preguntarnos: ¿en qué medida los paisajes arqueológicos pueden entremezclarse con
 nociones sobre algoritmos? Aquí es necesario que nos detengamos un momento. Los
@@ -30,6 +27,9 @@ que las computadoras son ni más ni menos que máquinas capaces de procesar algo
 Aparece otra pregunta, más específica y más radical: ¿será posible entremezclar las ideas
 sobre algoritmos y computadoras con historias, ensoñaciones e imaginarios arqueológicos
 en la formación algorítmica de estudiantes de humanidades?
+
+**Imagen de Caral**
+![Caral](images/caral.png)
 
 Esta pregunta, que en una primera mirada parece un poco extraña, encierra un aspecto
 fundamental de la formación en programación: en general, este conocimiento está
