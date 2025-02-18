@@ -159,9 +159,10 @@ Ambos estaban felices. Cada versión era diferente, pero al mismo tiempo se reco
 
 - **¡Eso no se parece a lo que hice ayer!** - Mientras se reía de su hermana y apuntaba a su maqueta.
 - **¡Tú no sabes escribir en quipus!** - Gritó Miraya a su hermano, recordando las veces que se escondía de las lecciones que les daba su mamá.
+
 Las versiones pequeñas de Caral quedaron en el lugar donde les gustaba mirar el horizonte.
 
 Al atardecer pudieron comparar sus creaciones con la realidad, que comenzó a mezclarse con sus ideas de un futuro de constructores, y el imaginario infinito de piezas que se unen con barro, pero que perduran por los siglos.
----
+
 
 
