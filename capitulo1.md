@@ -4,24 +4,63 @@ title: "Capítulo 1: La Historia de Miraya y Lurihuasi"
 
 # **Capítulo 1: La Historia de Miraya y Lurihuasi**
 
-## Algoritmos, LEGOs y Caral
+## **Algoritmos, LEGOs y Caral**
 
-Al pasear por Lima, es habitual encontrarse con lugares en los que parece que el tiempo se detuvo: ruinas corroídas por el sol y por la lluvia tenue y gris que invade los inviernos. Estas aparecen debajo de autopistas, rodeadas de casas, o arrumbadas en algún barrio. La ciudad está infestada de ruinas, de historias interminables y piedras que recuerdan otros tiempos.
-
-A veces, estas construcciones perdidas reaparecen lejos de las grandes ciudades, en medio del sol y el polvo, recordando esplendores antiguos. **Caral**, una ciudadela de algunos miles de años de antigüedad ubicada al norte de Lima, es una de estas imágenes. Este imponente centro ceremonial juega con historias de imaginarios prehispánicos que intentan flotar en el desierto. Estudios arqueológicos afirman que Caral fue uno de los centros ceremoniales más antiguos de todo Sudamérica.
+Al pasear por Lima, es habitual encontrarse con lugares en los que parece que el tiempo se
+detuvo: ruinas corroídas por el sol y por la lluvia tenue y gris que invade los inviernos. Estas
+aparecen debajo de autopistas, rodeadas de casas, o arrumbadas en algún barrio. La ciudad
+está infestada de ruinas, de historias interminables, y piedras que recuerdan otros tiempos.
+A veces, estas construcciones perdidas reaparecen lejos de las grandes ciudades, en medio
+del sol y el polvo, recordando esplendores antiguos. Caral, una ciudadela de algunos miles
+de años de antigüedad ubicada al norte de Lima, es una de estas imágenes. Este imponente
+centro ceremonial juega con historias de imaginarios prehispánicos que intentan flotar en el
+desierto. Estudios arqueológicos afirman que Caral fue uno de los centros ceremoniales más
+antiguos de todo Sudamérica.
 
 **Imagen de Caral**
 ![Caral](images/caral.png)
 
-Estas extrañezas que se cruzan en Caral nos impulsan a preguntarnos: **¿en qué medida los paisajes arqueológicos pueden entremezclarse con nociones sobre algoritmos?** Aquí es necesario detenernos un momento. Los algoritmos nos rodean. Sin siquiera darnos cuenta, el algoritmo de Spotify nos hace escuchar a Taylor Swift, mientras descubrimos que necesitamos un nuevo sofá. Una idea maravillosa que surgió desde ideas dispersas entre **Ada Lovelace, Alan Turing y otros grandes pensadores** es que las computadoras son **máquinas capaces de procesar algoritmos**.
+Estas extrañezas que se cruzan en Caral -al menos para un extranjero- nos impulsa a
+preguntarnos: ¿en qué medida los paisajes arqueológicos pueden entremezclarse con
+nociones sobre algoritmos? Aquí es necesario que nos detengamos un momento. Los
+algoritmos nos rodean. Sin siquiera darnos cuenta, el algoritmo de Spotify nos hace escuchar
+a Taylor Swift, mientras descubrimos que necesitamos un nuevo sofá. Una idea maravillosa
+que surgió desde ideas dispersas entre Ada Lovelace, Alan Turing y un sinfín de famosos, es
+que las computadoras son ni más ni menos que máquinas capaces de procesar algoritmos.
+Aparece otra pregunta, más específica y más radical: ¿será posible entremezclar las ideas
+sobre algoritmos y computadoras con historias, ensoñaciones e imaginarios arqueológicos
+en la formación algorítmica de estudiantes de humanidades?
 
-Aparece otra pregunta, más específica y más radical: **¿será posible entremezclar las ideas sobre algoritmos y computadoras con historias, ensoñaciones e imaginarios arqueológicos en la formación algorítmica de estudiantes de humanidades?** 
+Esta pregunta, que en una primera mirada parece un poco extraña, encierra un aspecto
+fundamental de la formación en programación: en general, este conocimiento está
+integrado generalmente con cursos de física o matemáticas. Los imaginarios en estas
+perspectivas que vienen de la ingeniería o las ciencias exactas aparecen en fascinaciones por
+robots, máquinas que aprenden un lenguaje o que pueden crear imágenes de un gato. ¿Qué
+ocurre si las fascinaciones rebasan la tecnología, y abarcan, por ejemplo, preguntas
+literarias, reflexiones filosóficas, cuestiones sobre palabras o incluso sobre arqueología?
+¿Cómo se reconstruyen los imaginarios de jóvenes que comienzan en las humanidades, que
+en principio no se interesan por robots (aunque sería interesante que ocurriera)? ¿Será
+posible crear historias algorítmicas o experimentos algorítmicos basados en historias? 
 
-A partir de estas preguntas, nace un experimento donde los participantes construyen con piezas de LEGO una maqueta de **Caral**, resonando con ideas preconcebidas y recuerdos. Cada pieza de LEGO es una piedra de otro tiempo: sin hacer distinciones entre tecnologías antiguas o modernas, las materialidades cambian, pero las construcciones, las reglas e instrucciones se mantienen.
+A partir de ideas y ensoñaciones arqueológicas, los participantes de esta historia construyen
+con piezas de LEGO una maqueta de Caral, que busca resonar en sus ideas preconcebidas y
+sus propios recuerdos. Cada pieza de LEGO es una piedra de otro tiempo: sin hacer
+distinciones entre tecnologías antiguas o modernas, las materialidades cambian, pero las
+construcciones, las reglas e instrucciones se mantienen. En un futuro de máquinas e
+inteligencias artificiales, esas figuras de LEGO serán descubiertas por arqueologías que
+tratarán de leer capas de significado, un tejido de versiones unidas por los algoritmos.
+
+La historia comienza con Miraya y Lurihuasi, unos niños de Caral, que sin querer, programan
+con piedras, barro, y amor por las construcciones y las pirámides. Tal como los participantes
+actuales, Miraya y Lurihuasi juegan a armar figuras a partir de elementos simples, y también
+a tejer instrucciones de cómo construir figuras. Parece que las instrucciones formadas de
+reglas simples, casi insignificantes, que ahora llamamos algoritmos, son algo anterior a su
+creación: como decía Borges, que cada escritor crea sus precursores; aquí cada algoritmo
+crea sus precursores, que pueden reflejarse, quizás tenuemente, en Caral.
 
 ---
 
-## **La Historia de Miraya y Lurihuasi**
+## **Miraya y Lurihuasi, los niños constructores de Caral**
 
 La historia comienza con **Miraya y Lurihuasi**, unos niños de Caral, que sin querer, programan con piedras, barro y amor por las construcciones y las pirámides. Tal como los participantes actuales, Miraya y Lurihuasi juegan a armar figuras a partir de elementos simples, y también a **tejer instrucciones de cómo construir figuras**.
 
